@@ -4,6 +4,8 @@ Acadmic Advisor is an Android Application that aggregrates data from the UW Cour
 
 The project consists of a frontent which is an Android application and a server which starts the scrapers and then stores the scraped data in a database which the Android application then queries. 
 
+This project was made by Utkarsh Jain, Tyler O'Connell, Jake Fostner, James Liu, Shawn Wu, Hiuyau Yan, and Skylar Yan.
+
 Iteration 1 <11/1/2017> 
 
 Iteration 2 <11/27/2017>
