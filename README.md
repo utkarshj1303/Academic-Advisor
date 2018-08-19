@@ -1,6 +1,6 @@
 # Academic Advisor
 
-Acadmic Advisor is an Android Application that aggregrates data from the UW Course Guide, Rate My Professors and UW Madison Course Grade Distribution. The app generates a list of courses based on the users selected range of professor rating, range of average gpa and L&S requirement which they wish to satisfy. This was submitted as the final project for UW - Madison's CS 506 Software Engineering course.
+Academic Advisor is an Android Application that aggregates data from the UW Course Guide, Rate My Professors and UW Madison Course Grade Distribution. The app generates a list of courses based on the users selected range of professor rating, range of average gpa and L&S requirement which they wish to satisfy. This was submitted as the final project for UW - Madison's CS 506 Software Engineering course.
 
 The project consists of a frontent which is an Android application and a server which starts the scrapers and then stores the scraped data in a database which the Android application then queries. 
 
